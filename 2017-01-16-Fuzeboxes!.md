@@ -1,6 +1,6 @@
 ---
 title: Fuzeboxes!
-layout: _posts
+layout: posts
 author: adam.overy
 permalink: /fuzeboxes!/
 source-id: 1Q1KRto0xgVTPf9u7XYMHhlryJZ5YA1yWA1ot8-JLWzA
