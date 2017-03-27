@@ -117,12 +117,12 @@ img {
 
 .date {
   font-style: italic;
-  color: $white;
+  color: $black;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $white;
+  color: $black;
   background: $lightGray;
 }
 ::selection {
@@ -254,9 +254,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $white;
+    border-left: 2px solid $blue;
     padding: 0.1em 1em;
-    color: $white;
+    color: $black;
     font-size: 22px;
     font-style: italic;
   }
