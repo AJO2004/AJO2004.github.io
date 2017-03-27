@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $white;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $white;
+  color: $black;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $white;
+  color: $black;
   font-size: 16px;
 
   @include mobile {
@@ -243,7 +243,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $white;
+  border-bottom: 1px solid $black;
 }
 
 .posts > .post:last-child {
